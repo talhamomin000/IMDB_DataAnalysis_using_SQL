@@ -1,5 +1,5 @@
 Link to download the dataset
-Download these 6 tables
+Download all the 6 tables
 
 https://datasets.imdbws.com/name.basics.tsv.gz
 
